@@ -1,0 +1,164 @@
+body{
+    background-color:#252524;
+    font-family: 'Poppins', sans-serif;
+}
+.Dark-bright{
+    list-style: none !important;
+    text-decoration: none !important;
+    color: white;
+}
+.container{
+    background-color: #252524;
+}
+a{
+    color: white !important;
+}
+
+.fs-1{
+    color:  #fabe4c;
+}
+
+.of-winter{
+    color: #ffffff;
+}
+
+.p1{
+    color: white;
+}
+
+.vector-text{
+    color: white;
+}
+
+.text-center{
+    color: white;
+}
+
+
+
+.nav-link{
+    color: black;
+}
+
+nav li:hover{
+    background-color: #198754;
+    
+    
+}
+.dropdown-item{
+    color: rgb(0, 0, 0)!important;
+}
+
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    padding: 0;
+    color:  #a6ff00 !important;
+
+}
+
+
+.icon-fixed{
+    margin-right: 20px;
+}
+
+
+
+.price{
+    margin-top: 10px;
+    color: #fabe4c;
+}
+.card-3{
+    border: 0;
+    
+}
+
+
+.promo-area {
+    background:#252524;
+    color: #fff;
+    padding: 40px 0 40px;
+  }
+
+
+
+  .promo-area .zigzag-bottom, .brands-area .zigzag-bottom{background: #ff0000}
+.single-promo {
+    font-size: 25px;
+    font-weight: 200;
+    padding: 20px 10px;
+    text-align: center;
+}
+.single-promo i {
+  font-size: 50px;
+}
+
+.single-promo:hover {color: #fff;background: #222;}
+.promo1 { background:#5a88ca;}
+.promo2 { background:#ffd900;}
+.promo3 { background:#fa8072;}
+.promo4 { background:#4abebd;}
+.section-title {
+  font-family: "Raleway",sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.single-promo {margin-bottom: 30px}    
+.single-product-widget, .footer-about-us, .footer-menu {
+  margin-bottom: 60px;
+}
+
+
+
+  
+
+
+
+
+
+ul {
+    list-style: none;
+    display: flex
+}
+
+.social-icon {
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 27px;
+    margin-right: 11px;
+    cursor: pointer
+}
+
+.social-twitter {
+    background-color: #55acee
+}
+
+.social-facebook {
+    background-color: #3b5999
+}
+
+.social-linkedin {
+    background-color: #0077B5
+}
+
+.social-google {
+    background-color: #dd4b39
+}
+
+.social-instagram {
+    background-color: #dd4b39
+}
+
+.social-icon i {
+    transition: 0.4s all
+}
+
+.social-icon:hover i {
+    transform: scale(1.4)
+}
